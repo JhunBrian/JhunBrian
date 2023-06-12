@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **andam.jhunbrian@gmail.com**
 
+- 📑 You can view my portfolio <a href="jhunbrian.github.io" target="_blank"><strong>HERE</strong></a>.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian-andam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-andam" height="30" width="40" /></a>
