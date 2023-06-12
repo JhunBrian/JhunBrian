@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andam.jhunbrian@gmail.com**
 
-- 📑 You can view my portfolio <a href="jhunbrian.github.io" target="_blank"><strong>HERE</strong></a>.
+- 📑 You can view my portfolio <a href="[jhunbrian.github.io](https://jhunbrian.github.io/)" target="_blank"><strong>HERE</strong></a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
