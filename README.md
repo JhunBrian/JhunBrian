@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhun Brian Andam</h1>
 <h3 align="center">A graduating data science student from the University of Science and Technology of Southern Philippines</h3>
 
-- 🌱 I’m currently learning **Applications of Data Science**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **andam.jhunbrian@gmail.com**
 
