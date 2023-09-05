@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhun Brian Andam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JhunBrian&label=Profile%20views&color=0e75b6&style=flat" alt="JhunBrian" /> </p>
 
-<h3 align="center">A graduating data science student from the University of Science and Technology of Southern Philippines</h3>
+<h3 align="center">A graduate of BS in Data Science from the University of Science and Technology of Southern Philippines</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
