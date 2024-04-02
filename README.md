@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/brian-andam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-andam" height="30" width="40" /></a>
 <a href="https://kaggle.com/jhunbrianandam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jhunbrianandam" height="30" width="40" /></a>
-<a href="https://kaggle.com/jhunbrianandam" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="jhunbrianandam" height="30" width="40" /></a>
+<a href="https://huggingface.co/JhunBrian" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="jhunbrianandam" height="30" width="40" /></a>
 </p>
 
 
