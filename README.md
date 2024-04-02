@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jhun Brian Andam</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhunBrian&label=Profile%20views&color=0e75b6&style=flat" alt="JhunBrian" /> </p>
 
-<h3 align="center">A graduate of BS in Data Science from the University of Science and Technology of Southern Philippines</h3>
+<h3 align="center">Keeping Up with Tech's Pace 🫠</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 📫 How to reach me **andam.jhunbrian@gmail.com**
+- 🌏 Currently interested in the applications of data science in geospatial data.
 
 - 📑 You can view my portfolio <a href="https://jhunbrian.github.io/portfolio" target="_blank"><strong>HERE</strong></a>.
 
