@@ -2,7 +2,7 @@
 
 <h3 align="center">Keeping Up with Tech's Pace 🫠</h3>
 
-- 🌏 Currently interested in the applications of data science in geospatial data.
+- 🌏 Currently interested in the applications of data science in geospatial technology.
 
 - 📑 You can view my portfolio <a href="https://jhunbrian.github.io/portfolio" target="_blank"><strong>HERE</strong></a>.
 
